@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD /bin/bash echo hello
+CMD /bin/bash 
